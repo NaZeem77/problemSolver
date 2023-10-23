@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Problem Solver</string>
+    <string name="welcomeText">Welcome to The Problem Solver</string>
+    <string name="selectText">Please choose a problem:</string>
+    <string name="fwgcButton">FWGC</string>
+    <string name="puzzle">8 Puzzle</string>
+    <string name="fwgcGreeting">Welcome to the FWGC Problem</string>
+    <string name="fwgcE">A farmer and his wolf, goat, and cabbage come to the edge of a river they wish to cross:</string>
+    <string name="fwgcE2">There is a boat at the river\'s edge that only the farmer can take at most one other object besides himself on a crossing, but if the wolf is ever left with the goat, the wolf will eat the goat; similarly, if the g oat is left with the cabbage, the goat will eat the cabbage. Devise a sequence of crossings of the river so that all four characters arrive safely on the other side:</string>
+    <string name="puzWelcome">Welcome to the 8-Puzzle Problem</string>
+    <string name="puzE">You are given a board in which numbered tiles can slide around. There is one blank space that holds no tile. Here is an example:</string>
+    <string name="puzE2">A legal move consists of sliding a tile into the blank space if the tile is adjacent to it. The goal is to move tiles around until the board looks like this:</string>
+    <string name="puzBegin">Begin 8-Puzzle Problem</string>
+    <string name="fwgcBegin">Begin FWGC Problem</string>
+
+    <string name="alone">Farmer Goes Alone</string>
+    <string name="wolf">Farmer Takes Wolf</string>
+    <string name="goat">Farmer Takes Goat</string>
+    <string name="cabbage">Farmer Takes Cabbage</string>
+    <string name="Reset">Reset</string>
+    <string name="Solve">Solve</string>
+    <string name="Next">Next</string>
+    <string name="FarmerStartView">Current State</string>
+    <string name="FarmerFinalView">FinalState</string>
+    <string name="Moves">Moves</string>
+    <string name="Empty"></string>
+
+    <string name="Slide1">Slide 1</string>
+    <string name="Slide2">Slide 2</string>
+    <string name="Slide3">Slide 3</string>
+    <string name="Slide4">Slide 4</string>
+    <string name="Slide5">Slide 5</string>
+    <string name="Slide6">Slide 6</string>
+    <string name="Slide7">Slide 7</string>
+    <string name="Slide8">Slide 8</string>
+
+    <color name="green">#0F9D58</color>
+    <color name="cool">#188FCF</color>
+    <color name="warm">#F1D416</color>
+
+</resources>
